@@ -1,5 +1,5 @@
-const num1 = Math.ceil(Math.random()*24)-12;
-const num2 = Math.ceil(Math.random()*24)-12;
+const num1 = Math.ceil(Math.random()*21)-10;
+const num2 = Math.ceil(Math.random()*21)-10;
 
 
 const questionEl = document.getElementById("question")
